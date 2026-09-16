@@ -1,5 +1,9 @@
 # ang-ir
 
+> **Moved into ANG on 2026-09-16.** This code now lives in the ANG repository as
+> `angir/` (`github.com/strogmv/ang/angir/...`), with its history. This module is
+> frozen at `8fa7434`: change the IR in ANG, not here.
+
 `ang-ir` is the extracted `CUE -> normalizer -> IR` core from ANG.
 
 It is intentionally limited to deterministic intent loading.
